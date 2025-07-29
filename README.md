@@ -49,6 +49,8 @@
 
 ---
 
+---
+
 ## 📫 Bana Ulaşın
 
 - 🌐 Tanıtım Sitem: [musa-arrow.github.io/mySite](https://musa-arrow.github.io/mySite/)
@@ -58,6 +60,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=musa-arrow&label=Profil+Ziyaretleri&color=0e75b6&style=flat" alt="musa-arrow" />
-</p>
+![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Ziyaretçi&color=blue&style=flat-square)
+
