@@ -7,7 +7,7 @@
 
 ## 🧠 Hakkımda
 
-- 🎓 İstanbul Arel Üniversitesi – Bilgisayar Mühendisliği 2. sınıf öğrencisiyim (2028 mezunu)
+- 🎓 İstanbul Arel Üniversitesi – Bilgisayar Mühendisliği öğrencisiyim 
 - 🔍 Şu anda **siber güvenlik**, **Python**, **veri analizi** ve **makine öğrenmesi** konularında çalışıyorum
 - 📱 Mobil uyumlu web arayüzler ve makine öğrenmesi tabanlı projeler geliştiriyorum
 - 💬 Yeni şeyler öğrenmeye ve açık kaynak projelere katkı sağlamaya hevesliyim
