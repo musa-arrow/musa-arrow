@@ -55,6 +55,5 @@
 
 ---
 
-<p align="center">
-  ![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Profil+Ziyaretleri&color=0e75b6&style=flat)
-</p>
+![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Profil%20Ziyaretleri&color=0e75b6&style=flat)
+
