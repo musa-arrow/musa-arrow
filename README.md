@@ -1,16 +1,12 @@
-<h1 align="center">Selam! 👋 Ben Musa Ok</h1>
-<p align="center">
-  🚀 Bilgisayar Mühendisliği Öğrencisi | 💻 Python & ML Meraklısı | 🛡️ Siber Güvenlik Yolcusu
+<h1 align="left">👋 Merhaba, ben Musa Ok</h1>
+
+<p align="left">
+💻 Bilgisayar Mühendisliği öğrencisiyim • Python & ML odaklı projeler geliştiriyorum<br/>
+🔐 Siber güvenlik alanına ilgi duyuyorum • Veriye dayalı sistemlerle çalışıyorum<br/>
+📍 İstanbul, Türkiye
 </p>
 
----
-
-## 🧠 Hakkımda
-
-- 🎓 İstanbul Arel Üniversitesi – Bilgisayar Mühendisliği öğrencisiyim 
-- 🔍 Şu anda **siber güvenlik**, **Python**, **veri analizi** ve **makine öğrenmesi** konularında çalışıyorum
-- 📱 Mobil uyumlu web arayüzler ve makine öğrenmesi tabanlı projeler geliştiriyorum
-- 💬 Yeni şeyler öğrenmeye ve açık kaynak projelere katkı sağlamaya hevesliyim
+![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Ziyaretçi&color=blue&style=flat-square)
 
 ---
 
@@ -31,9 +27,10 @@
 
 ## 🚀 Üzerinde Çalıştığım Projeler
 
-- 🌿 **Tarım Destek Tahmin Sistemi** – (Flask + ML + SQLite + Gelişmiş UI)
-- 🛡️ **Phishing Web Sitesi Tespit Aracı** – (Streamlit + ML + Güvenlik Testi)
-- 🧠 **Makine Öğrenmesi Modelleriyle Analiz Projeleri** – (RandomForest / XGBoost)
+- 🌿 **Tarım Destek Tahmin Sistemi** – (Flask + ML + SQLite + Gelişmiş UI)  
+- 🛡️ **Phishing Web Sitesi Tespit Aracı** – (Streamlit + ML + Güvenlik Testi)  
+- 🧠 **Makine Öğrenmesi Modelleriyle Analiz Projeleri** – (RandomForest / XGBoost)  
+- ✅ **Kişisel Görev Yönetimi Uygulaması** – (Streamlit + SQLite kullanarak yapılmış pratik bir yapılacaklar listesi uygulaması)
 
 ---
 
@@ -49,16 +46,15 @@
 
 ---
 
----
-
 ## 📫 Bana Ulaşın
 
-- 🌐 Tanıtım Sitem: [musa-arrow.github.io/mySite](https://musa-arrow.github.io/mySite/)
-- 💼 LinkedIn: [linkedin.com/in/musa-ok-416671351](https://www.linkedin.com/in/musa-ok-416671351/)
-- 📧 E-posta: musaok425@gmail.com
+- 🌐 Tanıtım Sitem: [musa-arrow.github.io/mySite](https://musa-arrow.github.io/mySite/)  
+- 💼 LinkedIn: [linkedin.com/in/musa-ok-416671351](https://www.linkedin.com/in/musa-ok-416671351/)  
+- 📧 E-posta: musaok425@gmail.com  
 - 💾 GitHub: [github.com/musa-arrow](https://github.com/musa-arrow)
 
 ---
 
-![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Ziyaretçi&color=blue&style=flat-square)
-
+<p align="center">
+  ![Profil Ziyaret Sayacı](https://komarev.com/ghpvc/?username=musa-arrow&label=Profil+Ziyaretleri&color=0e75b6&style=flat)
+</p>
