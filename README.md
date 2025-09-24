@@ -27,10 +27,10 @@
 
 ## 🚀 Üzerinde Çalıştığım Projeler
 
-- 🌿 **Tarım Destek Tahmin Sistemi** – (Flask + ML + SQLite + Gelişmiş UI)  
-- 🏋️ **Gym Kullanım Tahmin Sistemi** – (Python + ML + Veri Analizi ile gym yoğunluğunu tahmin etme)  
+- 🌿 **Tarım Destek Tahmin Sistemi** – ( ML + Python + Streamlit + Veri analizi)  
+- 🏋️ **Gym Kullanım Tahmin Sistemi** – (Python + ML + Veri analizi + FastAPI + HTML + CSS)  
 - 🛡️ **Phishing Web Sitesi Tespit Aracı** – (Streamlit + ML ile phishing siteleri tespit etme)  
-- 🧠 **Makine Öğrenmesi Modelleriyle Analiz Projeleri** – (RandomForest / XGBoost)  
+- 🧠 **Makine Öğrenmesi Modelleriyle Analiz Projeleri** – (RandomForest, XGBoost vb. ile sınıflandırma ve regresyon projeleri)  
 - ✅ **Kişisel Görev Yönetimi Uygulaması** – (Streamlit + SQLite kullanarak yapılmış pratik bir yapılacaklar listesi uygulaması)
 
 ---
